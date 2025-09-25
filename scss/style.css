@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+  background: #f5f5f5;
+}
+
+.btn {
+  padding: 10px 20px;
+  background: #3498db;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: #217dbb;
+}
+/*# sourceMappingURL=style.css.map */
